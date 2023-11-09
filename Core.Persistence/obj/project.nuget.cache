@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "Dl5jM7i8yY77e2D9G2DUlQ2hyb2Jtz3e+sG9a0VTr5ktcoP7VgP4U75ReM078tbSx2JPIC38smgH/yYzQ9j9fQ==",
+  "dgSpecHash": "vq6gwnvw/g1hsNQ5UvdzzIEw3MN+9Z1jl0U49+VQEMgLl9WMA83QjVsAPD64KbjD18Of8PM5T1Dl2+HXwIFd/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.13\\microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\system.linq.dynamic.core\\1.3.5\\system.linq.dynamic.core.1.3.5.nupkg.sha512"
+  ],
   "logs": []
 }
