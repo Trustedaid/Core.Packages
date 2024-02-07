@@ -6,7 +6,7 @@ public class RefreshToken : Entity<int>
 {
     public int UserId { get; set; }
     public string Token { get; set; }
-    public DateTime Expiration { get; set; }
+    public DateTime Expires { get; set; }
     public string CreatedByIp { get; set; }
     public DateTime? Revoked { get; set; }
     public string? RevokedByIp { get; set; }
@@ -21,19 +21,19 @@ public class RefreshToken : Entity<int>
         CreatedByIp = string.Empty;
     }
 
-    public RefreshToken(int userId, string token, DateTime expiration, string createdByIp)
+    public RefreshToken(int userId, string token, DateTime expires, string createdByIp)
     {
         UserId = userId;
         Token = token;
-        Expiration = expiration;
+        Expires = expires;
         CreatedByIp = createdByIp;
     }
 
-    public RefreshToken(int id, int userId, string token, DateTime expiration, string createdByIp) : base(id)
+    public RefreshToken(int id, int userId, string token, DateTime expires, string createdByIp) : base(id)
     {
         UserId = userId;
         Token = token;
-        Expiration = expiration;
+        Expires = expires;
         CreatedByIp = createdByIp;
     }
 }
