@@ -10,4 +10,8 @@
       <ProjectReference Include="..\Core.Persistence\Core.Persistence.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.3.1" />
+    </ItemGroup>
+
 </Project>
